@@ -1,0 +1,19 @@
+.session-2{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-style: italic;
+    font-size: 2rem;
+    text-align: center;
+    font-family: serif;    
+}
+
+.session-2 label{
+    color: rgb(255, 153, 50);
+}
+
+.session-2 p{
+    margin-top: -20px;
+    margin-bottom: -1px;
+}

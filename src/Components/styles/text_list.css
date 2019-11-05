@@ -1,0 +1,27 @@
+
+.session-3{
+    width: 60%;
+    margin: auto;
+    
+}
+
+.session-3 p{
+    line-height: 2rem;
+    font-size: 17px;
+
+}
+
+.session-3 ol{
+    counter-reset: item;
+    line-height: 2.5rem;
+}
+
+.session-3 ol li{
+    display: block;
+}
+
+.session-3 ol li::before{
+    content: counter(item) ". ";
+    counter-increment: item;
+    color: rgb(255, 153, 50);
+}

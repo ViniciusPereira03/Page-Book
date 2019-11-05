@@ -1,0 +1,44 @@
+.session-1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+
+.session-1 .left-menu{
+    width: 37px;
+    margin-left: -35px;
+    margin-top: 30px;
+}
+
+.session-1 .left-menu{
+    text-align: center;
+}
+
+.session-1 .left-menu p{
+    margin-top: -1px;
+    margin-bottom: -5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.sesssion-1 .left-menu .icons{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.session-1 .left-menu .icons .icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.session-1 .left-menu .icons .icon img{
+    margin-top: 10px;
+}
+
+.session-1 .text{
+    line-height: 2rem;
+    font-size: 17px;
+    width: 60%;
+    margin: auto;
+}

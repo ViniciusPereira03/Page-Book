@@ -1,0 +1,80 @@
+.session-5{
+    width: 65%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.session-5 .card{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 25px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(136, 136, 136, 0.445);
+}
+
+.session-5 .card .text-card{
+    margin-top: 15px;    
+}
+
+.session-5 .card .text-card label{
+    font-family: Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 20px;    
+    color: rgb(46, 56, 73);
+}
+
+.session-5 .card .text-card p{
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+.session-5 .card .card-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.session-5 .card .card-info .info-left{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+
+.session-5 .card .card-info .info-left .box{
+    display: flex;
+    flex-direction: row;
+}
+
+.session-5 .card .card-info .info-left .box .icon img{
+    width: 14px;
+    margin-top: 8px;
+    margin-right: 5px;
+    float: left;
+}
+
+.session-5 .card .card-info .info-left .box img{
+    width: 20px;
+    margin-top: 4px;
+    margin-right: 5px;
+    float: left;
+}
+
+
+.session-5 .card .card-info .info-left .box p{
+    font-size: 10px;
+    margin-right: 10px;
+    color: rgb(86, 99, 121); 
+    font-weight: bold;
+    float: right;
+}
+
+.session-5 .card .card-info .info-right img{
+    width: 50px;
+    margin-bottom: 30px;
+}
